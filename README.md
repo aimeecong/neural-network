@@ -1,2 +1,2 @@
 # neural-network
-Author: Aimeeß
+Author: Aimee
